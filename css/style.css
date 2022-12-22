@@ -6,3 +6,16 @@ body {
   font-family: 'Lato', sans-serif;
 }
 
+.button {
+  background-color: #000;
+  border: none;
+  color: white;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-radius: 12px;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
